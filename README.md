@@ -1,2 +1,2 @@
 # HERACLES
-Simulation code of our paper: "HERACLES: Hierarchical Semantic Communications for Distributed Dynamic Sensor Fusion"
+Evaluation code of our paper submitted to ICDCS 2025: "HERACLES: Hierarchical Semantic Communications for Distributed Dynamic Sensor Fusion"
