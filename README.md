@@ -1,13 +1,6 @@
 # ICDCS-HERACLES
 
 
-
-## Abstract
-
-Distributed sensor fusion is a key component of a broad spectrum of applications, such as autonomous systems, where the ability of jointly process multi-sensor data at the edge boosts the range of operating conditions and overall task performance. However, existing distributed sensor fusion approaches encounter limitations in achieving efficient transmission and computation, primarily due to sensor data redundancy, unreliable sensor data transmission, and inflexible sensor fusion methods. In this paper, we propose HERACLES, a distributed sensor fusion framework that connects multi-branched dynamic neural network architectures, which we extend to include branches of different complexity, to (i) a computing methodology that distributes portions of the multi-branched neural network across mobile devices and edge servers, enabling flexible semantic feature extraction and sensor fusion; (ii) a hierarchical modulation-based transmission strategy, where multi-modal semantic features are allocated to different modulation layers to provide varying levels of error protection, and (iii) an infrastructure-level logic that controls the matching between semantic features and modulation layers, and the complexity of the neural model itself to meet an accuracy target while minimizing latency and energy consumption. As a result, HERACLES deeply connects computing, communications and resource allocations in a semantic and context-aware fashion. We evaluate HERACLES using real-world datasets and demonstrate that it can reduce the total delay and energy consumption by 20.39%--$89.41% and 4.86%--88.17% (resp.), while maintaining near-optimal inference accuracy.
-
-
-
 ---
 
 ## Directory Structure
