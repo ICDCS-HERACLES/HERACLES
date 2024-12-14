@@ -1,8 +1,6 @@
 # ICDCS-HERACLES
-
-
 ---
-
+This is the anonymous repository of ICDCS 2025 Submission 459: HERACLES: Hierarchical Semantic Communications for Distributed Dynamic Sensor Fusion
 ## Directory Structure
 - **`baselines/`**: Implements baseline algorithms, such as AMAC and DQN, along with related data files.
 - **`envs/`**: Defines custom environments for reinforcement learning simulations, including some utility functions for building corresponding environment.
